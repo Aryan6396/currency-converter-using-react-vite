@@ -33,7 +33,7 @@ function App() {
         <div
             className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
             style={{
-                backgroundImage: `url('https://media.istockphoto.com/id/1291984656/photo/background-of-paper-indian-money-100-banknotes-500-banknotes.jpg?b=1&s=612x612&w=0&k=20&c=krq1iOMVELTuC5z-iefHWZx4m3EuMbSvQyGVW3wXBuA=')`,
+                backgroundImage: `url('https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=600')`,
             }}
         >
             <div className="w-full">
